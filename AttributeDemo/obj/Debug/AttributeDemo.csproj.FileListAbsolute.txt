@@ -1,0 +1,7 @@
+C:\Users\Wesley\IdeaProjects\github\CSharpLanguage\AttributeDemo\bin\Debug\AttributeDemo.exe.config
+C:\Users\Wesley\IdeaProjects\github\CSharpLanguage\AttributeDemo\bin\Debug\AttributeDemo.exe
+C:\Users\Wesley\IdeaProjects\github\CSharpLanguage\AttributeDemo\bin\Debug\AttributeDemo.pdb
+C:\Users\Wesley\IdeaProjects\github\CSharpLanguage\AttributeDemo\obj\Debug\AttributeDemo.csprojAssemblyReference.cache
+C:\Users\Wesley\IdeaProjects\github\CSharpLanguage\AttributeDemo\obj\Debug\AttributeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\IdeaProjects\github\CSharpLanguage\AttributeDemo\obj\Debug\AttributeDemo.exe
+C:\Users\Wesley\IdeaProjects\github\CSharpLanguage\AttributeDemo\obj\Debug\AttributeDemo.pdb
